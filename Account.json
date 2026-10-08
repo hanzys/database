@@ -1,0 +1,22 @@
+{
+  "accounts": [
+    {
+      "username": "dev",
+      "password": "veronixkyzooxd",
+      "role": "developer",
+      "tokenLimit": 999999
+    },
+    {
+      "username": "ceo",
+      "password": "passwordceo",
+      "role": "ceo",
+      "tokenLimit": 15
+    },
+    {
+      "username": "reseller",
+      "password": "passwordreseller",
+      "role": "reseller",
+      "tokenLimit": 7
+    }
+  ]
+}
